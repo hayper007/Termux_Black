@@ -1,9 +1,9 @@
 ![logo](../master/images/IMG_20200529_153730.jpg)
 
-it is unofficial repository maintained by me @hax4us. you can check available packages in README
+it is unofficial repository maintained by me @hayper007. you can check available packages in README
 
 ### Install TermuXBlacK
-1. Just download installer script `wget https://github.com/Hax4us/TermuxBlack/raw/master/install.sh`
+1. Just download installer script `wget https://github.com/kingboyss/Termux_Black/raw/master/install.sh`
 2. Now run `bash install.sh`
 
 ### Inatall Package 
