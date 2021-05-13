@@ -27,3 +27,4 @@ it is unofficial repository maintained by me @hayper007. you can check available
 ### Uninstall
 1. copy & paste whole command `rm -f $PREFIX/etc/apt/sources.list.d/termuxblack.list && mv $PREFIX/etc/bash.bashrc.bk $PREFIX/etc/bash.bashrc && rm -f ~/.termux/colors.properties`
 2. restart termux
+Credit by @Hax4us
